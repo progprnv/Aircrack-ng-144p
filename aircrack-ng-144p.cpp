@@ -32,6 +32,7 @@ void scan_wifi_networks() {
         return;
     }
 
+
     memset(&wreq, 0, sizeof(struct iwreq));
     wreq.u.data.pointer = buffer;
     wreq.u.data.length = MAX_PACKET_SIZE;
