@@ -27,3 +27,6 @@ Example:
 Wi-Fi Networks Found:
 SSID: MyWiFiNetwork, BSSID: 12:34:56:78:9A:BC, Channel: 6, Signal Strength: 80%
 SSID: GuestNetwork, BSSID: AB:CD:EF:12:34:56, Channel: 1, Signal Strength: 65%
+
+
+hang on!! Newer Stealth Update incoming!!
